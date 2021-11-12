@@ -1,5 +1,7 @@
 #!/usr/bin/env node
 
+console.log("test-npx");
+
 console.log("start");
 
 console.log(process.argv.length);
